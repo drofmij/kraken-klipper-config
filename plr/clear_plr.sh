@@ -1,0 +1,1 @@
+rm /home/drofmij/printer_data/gcodes/plr -rf
